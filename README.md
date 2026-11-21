@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Vaishnavi! 👋
+🎓 Data Science Engineering Student
+💻 Interested in Programming, Data Science & Technology.
+🌱 Currently learning Python and improving my problem-solving skills.
+🔭 Exploring new technologies and building projects.
 
-<!--
-**vaishnavihangarge/vaishnavihangarge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+- Python
+- C Programming
+- Git & GitHub
 
-Here are some ideas to get you started:
+🎯 Goals
+- Build real-world projects
+- Learn Data Analytics and Machine Learning
+- Grow as a Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect!
+Always open to learning, collaboration and new opportunities!
+
+✨ Learning today, building tomorrow.
