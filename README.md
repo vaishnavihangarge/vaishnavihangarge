@@ -23,4 +23,13 @@ Hi, I'm Vaishnavi! 👋
 📫 Let's Connect!
 Always open to learning, collaboration and new opportunities!
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavihangarge&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavihangarge&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
 ✨ Learning today, building tomorrow.
