@@ -1,4 +1,4 @@
-Hi, I'm Vaishnavi! 👋
+Heyy, I'm Vaishnavi! 👋
 🎓 Data Science Engineering Student
 💻 Interested in Programming, Data Science & Technology.
 🌱 Currently learning Python and improving my problem-solving skills.
