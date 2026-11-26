@@ -5,11 +5,6 @@ Hi, I'm Vaishnavi! 👋
 🔭 Exploring new technologies and building projects.
 
 🛠️ Tech Stack
-- Python
-- C Programming
-- Git & GitHub
-- 🛠️ Languages & Tools
-🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
